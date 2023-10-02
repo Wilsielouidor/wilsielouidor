@@ -1,4 +1,4 @@
-<h1>Hi, my name is Wilsie, an <a href="https://www.linkedin.com/in/wilsie-louidor-csm-b4a549257/)">Scrum Master/IT Professional</a>☺</h1>
+<h1>Hi, my name is Wilsie, an <a href="https://www.linkedin.com/in/wilsie-louidor-csm-b4a549257/)">Scrum Master IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
