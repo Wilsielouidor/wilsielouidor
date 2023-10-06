@@ -1,6 +1,6 @@
 <h1>Hi, my name is Wilsie, an <a href="https://www.linkedin.com/in/wilsie-louidor-csm-b4a549257/)">Scrum Master IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/wilsielouidor/osticket-prereqs)
