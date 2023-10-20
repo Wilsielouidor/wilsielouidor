@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/wilsielouidor/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/wilsielouidor/azure-network-protocols)
 
-<h2> Scrum Master Projects</h2>
+<h2> Scrum Master Projects:</h2>
 
 <h2>🤳Connect with me:</h2>
 
