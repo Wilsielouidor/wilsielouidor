@@ -11,7 +11,9 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/wilsielouidor/azure-network-protocols)
 
 <h2> Certified Scrum Master:</h2>
-What is <a href= "https://youtu.be/TRcReyRYIMg"> Scrum </a>?
+- <b>Scrum Basics</b>
+  - [Scrum Framework within Agile Methodology](https://github.com/wilsielouidor/Scrum Framework)
+  - What is <a href= "https://youtu.be/TRcReyRYIMg"> Scrum </a>?
 
 <h2>🤳Connect with me:</h2>
 
