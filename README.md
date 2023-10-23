@@ -1,4 +1,4 @@
-<h1>Hi, my name is Wilsie, an <a href="https://www.linkedin.com/in/wilsie-louidor-csm-b4a549257/)">Scrum Master IT Professional</a>☺</h1>
+<h1>Hi, my name is Wilsie, an <a href="https://www.linkedin.com/in/wilsie-louidor-csm-b4a549257/)"> IT Professional</a>☺</h1>
 
 <h2> Information Technology Projects:</h2>
 
@@ -10,7 +10,8 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/wilsielouidor/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/wilsielouidor/azure-network-protocols)
 
-<h2> Scrum Master Projects:</h2>
+<h2> Certified Scrum Master:</h2>
+What is <a href= "https://youtu.be/TRcReyRYIMg"> Scrum </a>?
 
 <h2>🤳Connect with me:</h2>
 
