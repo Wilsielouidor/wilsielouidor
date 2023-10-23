@@ -10,10 +10,13 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/wilsielouidor/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/wilsielouidor/azure-network-protocols)
 
-<h2> Certified Scrum Master:</h2>
-- <b>Scrum Basics</b>
-- [Scrum Framework within Agile Methodology](https://github.com/Wilsielouidor/Scrum-Framework/tree/main) 
-
+<h2> Agile Project Management:</h2>
+<ul>
+ <li><b>Scrum Basics</b></li>
+  <ul>
+  <li><a href="https://github.com/Wilsielouidor/ScrumFramework/tree/main">Agile Mindset: Scrum Framework</a> </li>
+  </ul>
+</ul>
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
