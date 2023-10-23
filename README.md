@@ -12,7 +12,7 @@
 
 <h2> Certified Scrum Master:</h2>
 - <b>Scrum Basics</b>
-  - [Scrum Framework within Agile Methodology](https://github.com/wilsielouidor/Scrum Framework)
+- [Scrum Framework within Agile Methodology](https://github.com/wilsielouidor/Scrum Framework)
   - What is <a href= "https://youtu.be/TRcReyRYIMg"> Scrum </a>?
 
 <h2>🤳Connect with me:</h2>
