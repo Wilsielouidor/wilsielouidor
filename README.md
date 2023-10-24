@@ -14,7 +14,7 @@
 <ul>
  <li><b>Scrum Basics</b></li>
   <ul>
-  <li><a href="https://github.com/Wilsielouidor/ScrumFramework/tree/main">Agile Mindset: Scrum Framework</a> </li>
+  <li><a href="https://github.com/Wilsielouidor/Scrum-Framework">Agile Mindset: Scrum Framework</a> </li>
   </ul>
 </ul>
 <h2>🤳Connect with me:</h2>
